@@ -5,4 +5,4 @@ goto your web browser setting and enable JavaScript.
 ## step 1:
 Simply clone the repository.
 ## step 2:
-Open game.html and Enjoy ;-)
+Open game.html on your browser and Enjoy ;-)
